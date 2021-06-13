@@ -296,3 +296,21 @@
 		<physics>
 		  <ode>
 			<limit>
+			  <cfm>0.004</cfm>
+			  <erp>0.2</erp>
+			</limit>
+			<cfm_damping>1</cfm_damping>
+		  </ode>
+		</physics>
+	  </joint>
+
+	<!-- /Motor/Prop 1 -->
+
+	<!-- Motor/Prop 2 -->
+	  <link name="rod_2">
+		<pose>1.75 0 0.14 0 0 0</pose>
+		<inertial>
+		  <pose>0.0 0.0 0 0.0 0.0 0.0</pose>
+		  <inertia>
+			<ixx>0.012</ixx>
+			<ixy>0.0</ixy>
