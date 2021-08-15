@@ -801,3 +801,25 @@
 			<iyz>0.0</iyz>
 			<izz>0.0000470</izz>
 		  </inertia>
+		  <mass>0.01</mass>
+		</inertial>
+		<collision name="collision">
+		  <pose>0.0 0.5 0 0.0 0.0 0.0</pose>
+		  <geometry>
+			<box>
+			  <size>0.2 1.0 0.01</size>
+			</box>
+		  </geometry>
+		</collision>
+		<visual name="visual">
+		  <pose>0.0 0.5 0 0.0 0.0 0</pose>
+		  <geometry>
+			<box>
+			  <size>0.2 1.0 0.01</size>
+			</box>
+		  </geometry>
+		  <material>
+			<ambient>0.2 0.5 0.2 1.0</ambient>
+			<diffuse>.421 0.225 0.0 1.0</diffuse>
+		  </material>
+		</visual>
