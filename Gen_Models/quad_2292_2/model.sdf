@@ -61,3 +61,21 @@
 				<mean>0</mean>
 				<stddev>0.017</stddev>
 				<bias_mean>0.1</bias_mean>
+				<bias_stddev>0.001</bias_stddev>
+			  </accel>
+			</noise>
+		  </imu>
+		  <pose>0 0 0 0 0 0</pose>
+		</sensor>
+	  </link>
+	  <link name="body_2">
+		<pose>0 0 0 0 0 0</pose>
+		<inertial>
+		  <pose>0.0 0.0 0.0 0.0 0.0 0.0</pose>
+		  <inertia>
+			<ixx>10.8</ixx>
+			<ixy>0.0</ixy>
+			<ixz>0.0</ixz>
+			<iyy>1.8</iyy>
+			<iyz>0.0</iyz>
+			<izz>10.8</izz>
