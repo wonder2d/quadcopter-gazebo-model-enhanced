@@ -348,3 +348,25 @@
 			<ixx>0.0000465</ixx>
 			<ixy>0.0</ixy>
 			<ixz>0.0</ixz>
+			<iyy>0.0000006</iyy>
+			<iyz>0.0</iyz>
+			<izz>0.0000470</izz>
+		  </inertia>
+		  <mass>0.01</mass>
+		</inertial>
+		<collision name="collision">
+		  <pose>0.0 0.5 0 0.0 0.0 0.0</pose>
+		  <geometry>
+			<box>
+			  <size>0.2 1.0 0.01</size>
+			</box>
+		  </geometry>
+		</collision>
+		<visual name="visual">
+		  <pose>0.0 0.5 0 0.0 0.0 0.0</pose>
+		  <geometry>
+			<box>
+			  <size>0.2 1.0 0.01</size>
+			</box>
+		  </geometry>
+		  <material>
