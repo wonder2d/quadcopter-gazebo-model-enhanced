@@ -540,3 +540,16 @@
 		<area>0.2</area>
 		<air_density>1.2041</air_density>
 		<forward>1 0 0</forward>
+		<upward>0 0 1</upward>
+		<link_name>quad_2292_2::blade_4</link_name>
+	  </plugin>
+
+
+	<!-- Motor/Prop 3 -->
+	  <link name="rod_3">
+		<pose>0 -1.75 0.14 0 0 0</pose>
+		<inertial>
+		  <pose>0.0 0.0 0 0.0 0.0 0.0</pose>
+		  <inertia>
+			<ixx>0.012</ixx>
+			<ixy>0.0</ixy>
