@@ -890,3 +890,15 @@
 			</limit>
 			<cfm_damping>1</cfm_damping>
 		  </ode>
+		</physics>
+	  </joint>
+	<!-- /Motor/Prop 4 -->
+	  <plugin name="quad_2292_2_blade_5" filename="libLiftDragPlugin.so">
+		<a0>0.1</a0>
+		<cla>0.100</cla>
+		<cda>0.01</cda>
+		<cma>0.00</cma>
+		<alpha_stall>0.2</alpha_stall>
+		<cla_stall>-0.2</cla_stall>
+		<cda_stall>1.0</cda_stall>
+		<cma_stall>0.0</cma_stall>
