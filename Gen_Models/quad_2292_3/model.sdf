@@ -727,3 +727,17 @@
 		  <pose>0.0 0.0 0 0.0 0.0 0.0</pose>
 		  <inertia>
 			<ixx>0.012</ixx>
+			<ixy>0.0</ixy>
+			<ixz>0.0</ixz>
+			<iyy>0.012</iyy>
+			<iyz>0.0</iyz>
+			<izz>0.0012</izz>
+		  </inertia>
+		  <mass>1.0</mass>
+		</inertial>
+		<collision name="collision">
+		  <geometry>
+			<box>
+			  <size>0.02 0.02 0.08</size>
+			</box>
+		  </geometry>
