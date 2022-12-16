@@ -48,3 +48,22 @@ for i in range(1,numCopies+1):
 	newSdfFile = open(os.path.join(newDir,sdfFileName),'w')
 	for line in sdfFile:
 		newSdfFile.write(line.replace(templateVar,newModelName))
+	newSdfFile.close()
+	sdfFile.seek(0,0)
+	
+
+confFile.close()
+sdfFile.close()
+
+#####
+# dev code below
+
+# os.makedirs(path, exist_ok=True)
+#f1 = open('file1.txt', 'r')
+#f2 = open('file2.txt', 'w')
+#for line in f1:
+#    f2.write(line.replace('old_text', 'new_text'))
+#f1.close()
+#f2.close()
+
+#def copy(src, dest):
