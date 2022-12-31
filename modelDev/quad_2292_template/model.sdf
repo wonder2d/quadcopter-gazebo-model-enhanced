@@ -1,0 +1,14 @@
+
+<?xml version="1.0" ?>
+
+<sdf version="1.5">
+	<model name="{$modelName}">
+	  <pose>0 0 0.1 0 0 0</pose>
+	  <static>false</static>
+	  <link name="body_1">
+		<pose>0 0 0 0 0 0</pose>
+		<inertial>
+		  <pose>0.0 0.0 0.0 0.0 0.0 0.0</pose>
+		  <inertia>
+			<ixx>1.8</ixx>
+			<ixy>0.0</ixy>
