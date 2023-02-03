@@ -406,3 +406,24 @@
 		  </geometry>
 		  <material>
 			<ambient>0.2 0.5 0.2 1.0</ambient>
+			<diffuse>.421 0.225 0.0 1.0</diffuse>
+		  </material>
+		</visual>
+	  </link>
+	  <joint name="rod_2_joint" type="revolute">
+		<parent>body_1</parent>
+		<child>rod_2</child>
+		<pose>0.0 0.0 0.0 0.0 0.0 0.0</pose>
+		<axis>
+		  <limit>
+			<lower>-1e16</lower>
+			<upper>1e16</upper>
+		  </limit>
+		  <xyz>0.0 0.0 -1.0</xyz>
+		  <dynamics>
+			<damping>0.0001</damping>
+		  </dynamics>
+		</axis>
+		<physics>
+		  <ode>
+			<cfm_damping>1</cfm_damping>
