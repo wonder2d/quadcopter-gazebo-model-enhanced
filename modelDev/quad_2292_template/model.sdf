@@ -427,3 +427,21 @@
 		<physics>
 		  <ode>
 			<cfm_damping>1</cfm_damping>
+		  </ode>
+		</physics>
+	  </joint>
+	  <joint name="blade_3_joint" type="revolute">
+		<parent>rod_2</parent>
+		<child>blade_3</child>
+		<pose>0.0 0.0 0.0 0.0 0.0 0.0</pose>
+		<axis>
+		  <limit>
+			<lower>-0.0</lower>
+			<upper>0.0</upper>
+		  </limit>
+		  <xyz>1.0 0.0 0.0</xyz>
+		  <dynamics>
+			<damping>1.000000</damping>
+		  </dynamics>
+		</axis>
+		<physics>
