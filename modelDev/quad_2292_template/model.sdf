@@ -707,3 +707,18 @@
 			<damping>1.000000</damping>
 		  </dynamics>
 		</axis>
+		<physics>
+		  <ode>
+			<limit>
+			  <cfm>0.004</cfm>
+			  <erp>0.2</erp>
+			</limit>
+			<cfm_damping>1</cfm_damping>
+		  </ode>
+		</physics>
+	  </joint>
+	<!-- /Motor/Prop 3 -->
+
+
+	<!-- Motor/Prop 4 -->
+	  <link name="rod_4">
