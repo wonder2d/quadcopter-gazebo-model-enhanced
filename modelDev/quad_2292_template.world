@@ -2,4 +2,4 @@
 <sdf version="1.5">
   <world name="default">
     <physics type="ode">
-      <gr
+      <gravity>0.0 0.0 -10.
