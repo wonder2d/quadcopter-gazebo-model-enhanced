@@ -2,4 +2,5 @@
 <sdf version="1.5">
   <world name="default">
     <physics type="ode">
-      <gravity>0.0 0.0 -10.
+      <gravity>0.0 0.0 -10.0</gravity>
+      <ode
