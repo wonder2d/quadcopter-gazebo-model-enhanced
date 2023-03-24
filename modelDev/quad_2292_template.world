@@ -4,4 +4,5 @@
     <physics type="ode">
       <gravity>0.0 0.0 -10.0</gravity>
       <ode>
-        <sol
+        <solver>
+          <t
