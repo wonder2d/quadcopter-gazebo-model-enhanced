@@ -7,4 +7,4 @@
         <solver>
           <type>quick</type>
           <iters>50</iters>
-  
+          <sor>0.8
