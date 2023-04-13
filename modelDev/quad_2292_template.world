@@ -12,4 +12,4 @@
         <constraints>
           <cfm>0.0</cfm>
           <erp>0.2</erp>
-          <contact_max_correcting_v
+          <contact_max_correcting_vel>0.1</contact_ma
