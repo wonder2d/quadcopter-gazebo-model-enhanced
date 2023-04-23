@@ -17,4 +17,4 @@
         </constraints>
       </ode>
       <real_time_factor>1</real_time_factor>
-      <real_time_update_
+      <real_time_update_rate>0</real_tim
