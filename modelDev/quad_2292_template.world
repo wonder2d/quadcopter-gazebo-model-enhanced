@@ -21,4 +21,4 @@
       <max_step_size>0.001</max_step_size>
     </physics>
     <include>
-      <u
+      <uri>model://sun</u
