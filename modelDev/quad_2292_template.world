@@ -22,4 +22,6 @@
     </physics>
     <include>
       <uri>model://sun</uri>
-    </include
+    </include>  
+
+    <model name="gro
