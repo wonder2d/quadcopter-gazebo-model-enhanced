@@ -24,4 +24,5 @@
       <uri>model://sun</uri>
     </include>  
 
-    <model name="gro
+    <model name="ground_plane">
+   
