@@ -25,4 +25,4 @@
     </include>  
 
     <model name="ground_plane">
-   
+      <static>
