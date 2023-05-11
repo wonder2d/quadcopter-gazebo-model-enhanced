@@ -28,4 +28,5 @@
       <static>true</static>
       <link name="link">
         <collision name="collision">
-          <geometry
+          <geometry>
+       
