@@ -29,4 +29,5 @@
       <link name="link">
         <collision name="collision">
           <geometry>
-       
+            <plane>
+     
