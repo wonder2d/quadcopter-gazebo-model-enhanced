@@ -30,4 +30,4 @@
         <collision name="collision">
           <geometry>
             <plane>
-              <normal>
+              <normal>0 0 1</norma
