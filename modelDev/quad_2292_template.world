@@ -31,4 +31,5 @@
           <geometry>
             <plane>
               <normal>0 0 1</normal>
-              <size>1000 1000</siz
+              <size>1000 1000</size>
+            </p
