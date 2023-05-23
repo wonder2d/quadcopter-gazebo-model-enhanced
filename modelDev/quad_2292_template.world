@@ -37,4 +37,4 @@
           <surface>
             <friction>
               <ode>
-       
+                <mu>1</
