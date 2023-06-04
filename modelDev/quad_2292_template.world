@@ -43,4 +43,5 @@
             </friction>
           </surface>
         </collision>
-        <visual name="vi
+        <visual name="visual">
+         
