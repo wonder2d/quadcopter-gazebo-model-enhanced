@@ -44,4 +44,4 @@
           </surface>
         </collision>
         <visual name="visual">
-         
+          <cast_shadow
