@@ -46,4 +46,5 @@
         <visual name="visual">
           <cast_shadows>false</cast_shadows>
           <geometry>
-            <pl
+            <plane>
+        
