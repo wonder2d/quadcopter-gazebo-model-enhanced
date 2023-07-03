@@ -61,4 +61,5 @@
       </link>
     </model>
 
-	<incl
+	<include>
+		<uri>model://
