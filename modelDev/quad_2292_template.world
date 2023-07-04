@@ -62,4 +62,7 @@
     </model>
 
 	<include>
-		<uri>model://quad_2292_templ
+		<uri>model://quad_2292_template</uri>
+	</include>
+
+ 
