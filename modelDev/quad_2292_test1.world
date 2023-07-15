@@ -5,4 +5,4 @@
       <gravity>0.0 0.0 -10.0</gravity>
       <ode>
         <solver>
-    
+          <type>quick
