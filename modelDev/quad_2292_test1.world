@@ -10,4 +10,5 @@
           <sor>0.8</sor>
         </solver>
         <constraints>
-          <cfm>0.
+          <cfm>0.0</cfm>
+          <erp
