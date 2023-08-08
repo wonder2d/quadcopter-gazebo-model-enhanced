@@ -16,4 +16,4 @@
           <contact_surface_layer>0.0</contact_surface_layer>
         </constraints>
       </ode>
-      <real
+      <real_time_factor>1</re
