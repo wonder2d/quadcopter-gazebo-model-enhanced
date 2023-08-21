@@ -21,4 +21,4 @@
       <max_step_size>0.001</max_step_size>
     </physics>
     <include>
- 
+      <uri>model://su
