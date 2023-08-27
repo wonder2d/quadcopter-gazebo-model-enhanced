@@ -27,4 +27,4 @@
     <model name="ground_plane">
       <static>true</static>
       <link name="link">
-        <col
+        <collision name="colli
