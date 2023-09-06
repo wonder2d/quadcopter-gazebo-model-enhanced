@@ -35,4 +35,5 @@
             </plane>
           </geometry>
           <surface>
-          
+            <friction>
+     
