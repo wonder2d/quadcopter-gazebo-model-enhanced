@@ -47,4 +47,5 @@
           <cast_shadows>false</cast_shadows>
           <geometry>
             <plane>
-              <normal>0 0 1</no
+              <normal>0 0 1</normal>
+           
