@@ -53,4 +53,4 @@
           </geometry>
           <material>
             <script>
-              <uri>file
+              <uri>file://media/materials
