@@ -57,4 +57,5 @@
               <name>Gazebo/Grey</name>
             </script>
           </material>
-        </visua
+        </visual>
+      </li
