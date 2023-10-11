@@ -62,4 +62,4 @@
     </model>
 
 	<include>
-		<ur
+		<uri>model://trac
