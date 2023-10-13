@@ -62,4 +62,5 @@
     </model>
 
 	<include>
-		<uri>model://trac
+		<uri>model://track_ball</uri>
+		<pose>
