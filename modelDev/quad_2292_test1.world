@@ -63,4 +63,7 @@
 
 	<include>
 		<uri>model://track_ball</uri>
-		<pose>0 0 0 0 0 0</pos
+		<pose>0 0 0 0 0 0</pose>
+	</include>
+
+	<in
