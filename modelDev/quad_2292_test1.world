@@ -66,4 +66,5 @@
 		<pose>0 0 0 0 0 0</pose>
 	</include>
 
-	<in
+	<include>
+		<
