@@ -68,4 +68,4 @@
 
 	<include>
 		<uri>model://quad_2292_1</uri>
-		<pose>0
+		<pose>0 0 0 0 0 0</p
