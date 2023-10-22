@@ -71,4 +71,4 @@
 		<pose>0 0 0 0 0 0</pose>
 	</include>
 	<include>
-		<uri>model://qu
+		<uri>model://quad_2292_2</uri>
