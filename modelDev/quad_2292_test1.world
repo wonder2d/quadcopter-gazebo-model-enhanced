@@ -74,4 +74,5 @@
 		<uri>model://quad_2292_2</uri>
 		<pose>-10 0 0 0 0 0</pose>
 	</include>
-	<include
+	<include>
+		<uri>mod
