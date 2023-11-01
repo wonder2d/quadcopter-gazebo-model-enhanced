@@ -1,1 +1,1 @@
-# quadcop
+# quadcopter-gazebo-mode
