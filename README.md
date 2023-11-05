@@ -1,1 +1,2 @@
-# quadcopter-gazebo-mode
+# quadcopter-gazebo-model-enhanced
+Enhanced G
