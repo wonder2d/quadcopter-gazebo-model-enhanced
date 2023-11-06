@@ -1,2 +1,2 @@
 # quadcopter-gazebo-model-enhanced
-Enhanced Gazebo model o
+Enhanced Gazebo model of a quadcopter en
