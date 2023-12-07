@@ -7,4 +7,4 @@ It's an updated version of the example Gazebo quadcopter model, located in:
 
 The use case for this model was multi-robot collaboration/swarms.
 So wonder2d wanted to have a world where they could ideally spawn multiple instances of a single model.
-However there were difficu
+However there were difficulties in achievi
