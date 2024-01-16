@@ -10,4 +10,4 @@ So wonder2d wanted to have a world where they could ideally spawn multiple insta
 However there were difficulties in achieving this in Gazebo.
 So a different approach was taken, where a template model file with a placeholder model name was created.
 When wanting to have multiple quads in the world, a simple Python script is used to copy the quad model template and update the model name placeholder.
-Then in the Gazebo world file, they could simply include 
+Then in the Gazebo world file, they could simply include the individual quad
