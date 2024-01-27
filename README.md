@@ -13,4 +13,4 @@ When wanting to have multiple quads in the world, a simple Python script is used
 Then in the Gazebo world file, they could simply include the individual quad models.
 This method worked really well.
 
-Also, the preference was for the models 
+Also, the preference was for the models developed to be 
