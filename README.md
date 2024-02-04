@@ -14,4 +14,4 @@ Then in the Gazebo world file, they could simply include the individual quad mod
 This method worked really well.
 
 Also, the preference was for the models developed to be in the local workspace directory.
-The standa
+The standard Gazebo set
