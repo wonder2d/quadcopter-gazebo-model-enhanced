@@ -14,4 +14,5 @@ Then in the Gazebo world file, they could simply include the individual quad mod
 This method worked really well.
 
 Also, the preference was for the models developed to be in the local workspace directory.
-The standard Gazebo setup.sh script was copied and the model paths add
+The standard Gazebo setup.sh script was copied and the model paths added.
+So there's a 
