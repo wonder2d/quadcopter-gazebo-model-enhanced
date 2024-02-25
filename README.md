@@ -15,4 +15,4 @@ This method worked really well.
 
 Also, the preference was for the models developed to be in the local workspace directory.
 The standard Gazebo setup.sh script was copied and the model paths added.
-So there's a boot2292.sh script that runs the custom setup script, then boots a world 
+So there's a boot2292.sh script that runs the custom setup script, then boots a world with three qua
