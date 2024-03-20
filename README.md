@@ -18,4 +18,4 @@ The standard Gazebo setup.sh script was copied and the model paths added.
 So there's a boot2292.sh script that runs the custom setup script, then boots a world with three quads.
 From there, the user can run controller applications which interface with the Gazebo world and control the quads.
 
-To run, update your paths in mode
+To run, update your paths in modelDev/gz_setup.
