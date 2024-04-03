@@ -19,4 +19,4 @@ So there's a boot2292.sh script that runs the custom setup script, then boots a 
 From there, the user can run controller applications which interface with the Gazebo world and control the quads.
 
 To run, update your paths in modelDev/gz_setup.sh, then source boot2292.sh.
-If you want to change the number of quads required in the world, or want them to have different names, upda
+If you want to change the number of quads required in the world, or want them to have different names, update genModels.py and
