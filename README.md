@@ -21,4 +21,6 @@ From there, the user can run controller applications which interface with the Ga
 To run, update your paths in modelDev/gz_setup.sh, then source boot2292.sh.
 If you want to change the number of quads required in the world, or want them to have different names, update genModels.py and rerun.
 
-Thank you for your interest
+Thank you for your interest!
+
+![Alt text](s
