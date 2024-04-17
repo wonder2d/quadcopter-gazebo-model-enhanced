@@ -23,4 +23,4 @@ If you want to change the number of quads required in the world, or want them to
 
 Thank you for your interest!
 
-![Alt text](s
+![Alt text](screenshot.png?raw=
